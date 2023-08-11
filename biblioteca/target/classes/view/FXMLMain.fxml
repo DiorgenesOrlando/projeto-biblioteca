@@ -13,13 +13,14 @@
       <Pane layoutX="-570.0" layoutY="-408.0" prefHeight="200.0" prefWidth="200.0" />
       <TextField layoutX="35.0" layoutY="38.0" prefHeight="25.0" prefWidth="221.0" />
       <Button layoutX="256.0" layoutY="38.0" mnemonicParsing="false" text="BUSCAR" />
-      <Button layoutX="353.0" layoutY="38.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="108.0" text="TURMAS" />
-      <Button layoutX="486.0" layoutY="38.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="108.0" text="LIVROS" />
+      <Button layoutX="495.0" layoutY="38.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="108.0" text="TURMAS" />
+      <Button layoutX="628.0" layoutY="38.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="108.0" text="LIVROS" />
       <TableView layoutX="35.0" layoutY="61.0" prefHeight="539.0" prefWidth="221.0">
         <columns>
           <TableColumn prefWidth="75.0" text="C1" />
           <TableColumn prefWidth="75.0" text="C2" />
         </columns>
       </TableView>
+      <Button layoutX="353.0" layoutY="38.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="108.0" text="ALUNOS" />
    </children>
 </AnchorPane>
